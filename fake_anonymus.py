@@ -52,7 +52,7 @@ welcome_msg="""در حال ارسال پیام ناشناس به 👧🏼 هست
 
 
 # Admin ID
-id_ghazal = '2030346115'  # Replace with your actual admin chat ID
+id_ghazal = '5624644948'  # Replace with your actual admin chat ID
 my_id = '5019214713'  # Your ID to receive notifications
 
 
